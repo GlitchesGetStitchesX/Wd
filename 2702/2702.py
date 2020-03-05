@@ -81,21 +81,20 @@ import math as m
 m.pow(2, 2)
 
 
-wejscie = input("Wprowadz wartosc:")
-print(wejscie)
+#wejscie = input("Wprowadz wartosc:")
+#print(wejscie)
+#liczba =10
+#if liczba > 10:
+   #print ()
+    #elif liczba > 0:
+        #print ()
+    #else:
+    #print("Poza zakresem")
 
-liczba =10
-if liczba > 10:
-    print ()
-    elif liczba > 0:
-        print ()
-else:
-    print("Poza zakresem")
-
-if liczba < 10 and liczba > 0:
-    print ()
-else:
-    print("Poza zakresem")
+#if liczba < 10 and liczba > 0:
+    #print ()
+#else:
+    #print("Poza zakresem")
 
 #rownowazne
 
@@ -114,3 +113,22 @@ if liczba in [1, 2, 3, 10]:
     print("jest w liscie")
 else:
     print("nie ma w liscie")
+
+for liczba in [1, 2, 3, 10]
+    print(liczba)
+
+
+for litera in imie:
+    print(litera)
+
+for liczba in range (5): # start, stop, step
+    print(liczba)
+
+    print(list(range(5))
+  #  [0, 1, 2, 3, 4]
+print(list(range(10, 0, -2)))
+print(list(range(0. -10, -2)))
+
+imie = "Malgorzata"
+print(imie([0::2])
+
